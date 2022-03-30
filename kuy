@@ -1,1 +1,3 @@
-ไอพวกเรื้อนไม่มีปัญญาฟามเอง ไอ้โง่
+game.Players.LocalPlayer:kick("ไอพวกเรื้อนไม่มีปัญญาฟามเอง ไอ้โง่")
+	wait(1)
+	game:Shutdown()
